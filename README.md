@@ -1,5 +1,7 @@
 # JetBrains School Account Instruction
- instruct WY student to creat a free full-access JetBrains account
+ Me, Henry Huang had already requested and got the edu licence from JetBrains 
+ 
+ Next is the instruction for WY student for creating a free full-access JetBrains account
 
 
 ## How to create a JetBrains student account
