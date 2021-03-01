@@ -3,6 +3,7 @@
  
  Next is the instruction for WY student for creating a free full-access JetBrains account
 
+<img src="https://github.com/Superuser-Henry/JetBrains-Schoolaccount-Instruction/blob/main/Files/softwares.png?raw=true" width=60%>
 
 ## How to create a JetBrains student account
 
