@@ -4,10 +4,10 @@
 
 ## How to create a JetBrains student account
 
-Step 1.   
+### Step 1.   
 Click url: https://www.jetbrains.com/shop/eform/students
 
-Step 2.  
+### Step 2.  
 
 Following these choices:
 
@@ -31,17 +31,19 @@ Type your Chinese Name(do not use pinyin)
 
 And click “I have read and I accept the JetBrains Account Agreement”  
 
-Step 3.  
+### Step 3.  
 Check your Email, click the link and create an account.  
 Please confirm you are using the school Email address  
 During the Sign up, please use a strong password, otherwise you may fail with signing up.  
  
-Step 4.  
+### Step 4.  
 Download the software you need. Login with the school-email-account.  
 
 
-Tips:  
-If you were using the cracked version JetBrains products, please delete the agent-tool. macOS you may need delete the ~/Library/Application Support/JetBrains folder(whole folder) and reinstall the Jetbrains software again. Windows you may find the jetbrains-agent.jar, and delete it. Try to reinstall the software.
+## Tips:  
+If you were using the cracked version JetBrains products, please delete the agent-tool.  
+macOS you may need delete the ~/Library/Application Support/JetBrains folder(whole folder) and reinstall the Jetbrains software again.  
+Windows you may find the jetbrains-agent.jar, and delete it. Try to reinstall the software. 
  
  
 If you have other questions, feel free to contact me through WeChat or Email. 
