@@ -23,11 +23,11 @@ Graduation date:
 
 
 Email address:  
-**firstname(pinyin).englishname.lastname@wy.suis.com.cn  
+**firstname(pinyin).englishname.lastname@wy.suis.com.cn**  
 
 
 Name:
-**Type your Chinese Name(do not use pinyin)
+**Type your Chinese Name(do not use pinyin)**
 
 And click “I have read and I accept the JetBrains Account Agreement”  
 
@@ -40,10 +40,10 @@ During the Sign up, please use a strong password, otherwise you may fail with si
 Download the software you need. Login with the **school-email-account**.  
 
 
-## ****Tips:***  
+## ***Tips:***  
 If you were using the cracked version JetBrains products, please delete the agent-tool.  
-macOS you may need delete the ~/Library/Application Support/JetBrains folder(whole folder) and reinstall the Jetbrains software again.  
-Windows you may find the jetbrains-agent.jar, and delete it. Try to reinstall the software. 
+macOS you may need delete the *~/Library/Application Support/JetBrains* folder(whole folder) and reinstall the Jetbrains software again.  
+Windows you may find the *jetbrains-agent.jar*, and delete it. Try to reinstall the software. 
  
  
 If you have other questions, feel free *pull up issue* ,or *contact me through WeChat or Email*. 
