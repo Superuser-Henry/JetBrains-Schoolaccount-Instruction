@@ -23,7 +23,7 @@ Graduation date:
 
 
 Email address:  
-**firstname(pinyin).englishname.lastname@wy.suis.com.cn**  
+**firstname(pinyin).englishname.lastname(pinyin)@wy.suis.com.cn**  
 
 
 Name:
