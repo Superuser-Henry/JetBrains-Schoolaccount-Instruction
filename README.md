@@ -12,22 +12,22 @@ Click url: https://www.jetbrains.com/shop/eform/students
 Following these choices:
 
 
-Level of study: Secondary(mid or high school)  
+Level of study: **Secondary(mid or high school)**  
 
 
 Is CS or Engineering your major?   
-NO  
+**NO**  
 
 Graduation date:    
-202X/6/30  
+**202X/6/30**  
 
 
 Email address:  
-firstname(pinyin).englishname.lastname@wy.suis.com.cn  
+**firstname(pinyin).englishname.lastname@wy.suis.com.cn  
 
 
 Name:
-Type your Chinese Name(do not use pinyin)
+**Type your Chinese Name(do not use pinyin)
 
 And click “I have read and I accept the JetBrains Account Agreement”  
 
@@ -37,17 +37,17 @@ Please confirm you are using the school Email address
 During the Sign up, please use a strong password, otherwise you may fail with signing up.  
  
 ### Step 4.  
-Download the software you need. Login with the school-email-account.  
+Download the software you need. Login with the **school-email-account**.  
 
 
-## Tips:  
+## ****Tips:***  
 If you were using the cracked version JetBrains products, please delete the agent-tool.  
 macOS you may need delete the ~/Library/Application Support/JetBrains folder(whole folder) and reinstall the Jetbrains software again.  
 Windows you may find the jetbrains-agent.jar, and delete it. Try to reinstall the software. 
  
  
-If you have other questions, feel free to contact me through WeChat or Email. 
+If you have other questions, feel free *pull up issue* ,or *contact me through WeChat or Email*. 
  
-Here is my WeChat and Email:   
+Here is my WeChat QR and Email:   
 huangshenqiu@hotmail.com  
-WeChat.png   
+
