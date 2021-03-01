@@ -55,3 +55,4 @@ If you have other questions, feel free *pull up issue* ,or *contact me through W
 Here is my WeChat QR and Email:   
 huangshenqiu@hotmail.com  
 
+<img src="https://github.com/Superuser-Henry/JetBrains-Schoolaccount-Instruction/blob/main/Files/QRcode.jpeg?raw=true" width=300px>
