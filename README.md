@@ -11,6 +11,8 @@ Click url: https://www.jetbrains.com/shop/eform/students
 
 ### Step 2.  
 
+<img src="https://github.com/Superuser-Henry/JetBrains-Schoolaccount-Instruction/blob/main/Files/applyingpage.png?raw=true" width=600px>
+
 Following these choices:
 
 
