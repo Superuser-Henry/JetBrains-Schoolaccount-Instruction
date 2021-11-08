@@ -1,5 +1,5 @@
-# JetBrains School Account Instruction
- Me, Henry Huang had already requested and got the edu licence from JetBrains 
+# JetBrains School Account Instructi
+Hi everyone, I'm Henry Huang from SUISWY-USHS. In March, 2021, I had requested and got the edu licence from JetBrains successfully.
  
  Next is the instruction for WY student for creating a free full-access JetBrains account
 
